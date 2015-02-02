@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateBuilder", "TemplateBuilder\TemplateBuilder.csproj", "{6B432720-47FE-495D-A7D2-3C502B977484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlQuerier", "SqlQuerier\SqlQuerier.csproj", "{2DB08AFB-6DB5-402D-88A3-DE678C15D99E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyNameGetter", "AssemblyNameGetter\AssemblyNameGetter.csproj", "{770FD3D2-9409-443A-B450-E8C99421358D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B432720-47FE-495D-A7D2-3C502B977484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B432720-47FE-495D-A7D2-3C502B977484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B432720-47FE-495D-A7D2-3C502B977484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B432720-47FE-495D-A7D2-3C502B977484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB08AFB-6DB5-402D-88A3-DE678C15D99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB08AFB-6DB5-402D-88A3-DE678C15D99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB08AFB-6DB5-402D-88A3-DE678C15D99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB08AFB-6DB5-402D-88A3-DE678C15D99E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770FD3D2-9409-443A-B450-E8C99421358D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770FD3D2-9409-443A-B450-E8C99421358D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770FD3D2-9409-443A-B450-E8C99421358D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770FD3D2-9409-443A-B450-E8C99421358D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

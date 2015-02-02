@@ -1,0 +1,11 @@
+/AssemblyNameGetter/bin
+/AssemblyNameGetter/obj
+/SqlQuerier/obj
+/SqlQuerier/bin
+/TemplateBuilder/bin
+/TemplateBuilder/obj
+/Tools
+/*.suo
+/AssemblyNameGetter/*.user
+/SqlQuerier/*.user
+/TemplateBuilder/*.user
